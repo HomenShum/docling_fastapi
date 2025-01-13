@@ -6,3 +6,4 @@ uvicorn
 llama-index-core
 llama-index-readers-docling
 llama-index-node-parser-docling
+python-multipart
