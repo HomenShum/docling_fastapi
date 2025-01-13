@@ -1,2 +1,8 @@
 fastapi==0.100.0
 hypercorn==0.14.4
+docling
+fastapi
+uvicorn
+llama-index-core
+llama-index-readers-docling
+llama-index-node-parser-docling
